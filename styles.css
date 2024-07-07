@@ -21,7 +21,7 @@ body {
 }
 
 #landing-page {
-    display: none;
+    display: flex;
 }
 
 #notif-page {
@@ -33,7 +33,7 @@ body {
 }
 
 #register-page {
-    display: flex;
+    display: none;
 }
 
 .wrapper {
