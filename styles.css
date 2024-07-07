@@ -635,6 +635,24 @@ body {
 }
 
 /* register */
+
+.register-page .auth-title {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    position: relative;
+    width: 80%;
+}
+
+.register-page .auth-title i {
+    font-weight: 500;
+    font-size: 3rem;
+    color: #cc8a4c;
+    position: absolute;
+    left: 2rem;
+    top: 35%;
+}
+
 .register-page .auth-form {
     height: 90%;
     gap: 1rem;
